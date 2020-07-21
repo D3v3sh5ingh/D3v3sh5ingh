@@ -20,7 +20,7 @@ Hi, I'm Devesh - a Senior year Mathematics and Comping student studying at the D
 ![stats][]
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=D3v3sh5ingh)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=D3v3sh5ingh.D3v3sh5ingh)
 
 [stats]: https://github.com/D3v3sh5ingh/D3v3sh5ingh/blob/master/Assets/stats.png
 
