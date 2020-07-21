@@ -1,4 +1,4 @@
-![Header](https://github.com/D3v3sh5ingh/D3v3sh5ingh/blob/master/Assets/Banner.png)
+![Header](https://github.com/D3v3sh5ingh/D3v3sh5ingh/blob/master/Assets/banner.png)
 
 # Hi , I am Devesh 👋
 
@@ -17,7 +17,7 @@
 [badge-postgres]: https://img.shields.io/badge/database-postgreSQL-47A248?style=for-the-badge&logo=postgresql
 [badge-react]: https://img.shields.io/badge/React-16+-61DAFB?style=for-the-badge&logo=react
 [badge-css]: https://img.shields.io/badge/style-CSS-1572B6?style=for-the-badge&logo=css3
-[stats]: https://github.com/d3v3shy5ingh/d3v3shy5ingh/raw/master/Assets/stats.png
+[stats]: https://github.com/D3v3sh5ingh/D3v3sh5ingh/blob/master/Assets/stats.png
 
 <!--
 **D3v3sh5ingh/D3v3sh5ingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
