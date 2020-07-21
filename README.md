@@ -12,10 +12,10 @@ Hi, I'm Devesh - a Senior year Mathematics and Comping student studying at the D
 * 💻 Open for new offers, check out more about me at at [Devesh Singh](http://www.deveshsingh.ml)
 
 ## Tech Stack
-* 💻 C++ | C# | Java | TypeScript | Python | MatLab | Octave | R
-* 🛢️ mySQL | SQL Lite | MS SQL
-* ☁ AWS | GCP
-* 🎮 Unity
+* 💻 C++ | Python | React | Nodejs | Express | Javascript
+* 🛢️ mySQL | MongoDb 
+* ☁ Linux | Windows
+* 🖥️ Vs code | Git | Bitbucket
 
 ![stats][]
 
