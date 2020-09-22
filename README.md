@@ -7,7 +7,7 @@
 Hi, I'm Devesh - a Senior year Mathematics and Comping student studying at the Delhi Technological University. I like experimenting with new technologies, building small projects and occasionally tinkering with python and playing with websites.
 
 ## Here's a list of things I currently keep myself busy with:
-* 🌱 Working as a sports coder on **Leetcode, Codechef & Codeforces**
+* 🌱 Enjoy sport coding on **Leetcode, Codechef & Codeforces**
 * 💼 I'm currently getting better in **C++, Web development & Data Structures & Algorithms**
 * 💻 Open for new offers, check out more about me at at [Devesh Singh](http://www.deveshsingh.ml)
 
