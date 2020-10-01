@@ -9,7 +9,7 @@ Hi, I'm Devesh - a Senior year Mathematics and Computing student studying at the
 ## Here's a list of things I currently keep myself busy with:
 * 🌱 Enjoy sport coding on **Leetcode, Codechef & Codeforces**
 * 💼 I'm currently getting better in **C++, Web development & Data Structures & Algorithms**
-* 💻 Open for new offers, check out more about me at at [Devesh Singh](http://www.deveshsingh.ml)
+* 💻 Open for new offers, check out more about me at [Devesh Singh](http://www.deveshsingh.ml)
 
 ## Tech Stack
 * 💻 C++ | Python | React | Nodejs | Express | Javascript
